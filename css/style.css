@@ -1,0 +1,29 @@
+body {
+   font-family:"Cinzel Decorative"; 
+    background-color: #49765C;
+   color: #8EF0BD;
+}
+
+h1, h2, h3, h4, h5, h6, {
+    font-family:Courgette;
+    font-size:40pt;
+}
+
+header  {
+    text-align:center;
+}
+
+#hero, footer {
+    border: 3px solid #8EF0BD; 
+    background-color: #8ABA54; 
+    text-align:center;
+    padding:10px;
+}
+
+#hero img {
+    width:300px;
+}
+
+#bio {
+    text-align:center;
+}
